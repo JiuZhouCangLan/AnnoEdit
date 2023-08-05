@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/editing.svg</file>
+        <file>res/save.svg</file>
+        <file>res/clear.svg</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,33 @@
+# Install HCT: Havok Content Tools
+
+Run hctPlatformWin32.cmd.
+This program looks for installed HCT at startup.
+
+If it is already installed:
+	Usage: hct.exe -o out.hkx x 64 .hkx
+	-- HCT Start
+	-- HCT Finished
+
+Press any key and exit.
+
+
+If it is not installed:
+	Please install HCT x64.
+	Open the shared folder on Google Drive now [Y,N]?
+
+Press Y here to open the shared folder on Google Drive.
+
+
+Download and install HCT 2010.2.0 x64 version.
+
+HavokPcXsContentTools_X64_2010-2-0_20101115.exe
+
+
+Start the installer.
+Follow the instructions and press the Next button to complete the installation.
+
+When starting HCT, you may receive a Windows Firewall confirmation dialog.
+You don't have to allow this.
+
+--
+opparco
